@@ -1,0 +1,59 @@
+{
+  "commodity": "Tomatoes",
+  "input_column": "tomatoes_r_per_kg",
+  "chosen_units": 8,
+  "seeds": [
+    42,
+    43,
+    44
+  ],
+  "best_epochs": {
+    "42": 100,
+    "43": 100,
+    "44": 100
+  },
+  "lookback": 3,
+  "epochs_cap": 100,
+  "patience": 10,
+  "batch_size": 4,
+  "train_target_months": [
+    "2024-11",
+    "2024-12",
+    "2025-01",
+    "2025-02",
+    "2025-03",
+    "2025-04",
+    "2025-05",
+    "2025-06",
+    "2025-07",
+    "2025-08",
+    "2025-09",
+    "2025-10",
+    "2025-11",
+    "2025-12"
+  ],
+  "validation_target_months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04"
+  ],
+  "test_target_months": [
+    "2026-05",
+    "2026-06",
+    "2026-07",
+    "2026-08"
+  ],
+  "train_scaler_mean": [
+    12.535501855294118
+  ],
+  "train_scaler_scale": [
+    2.4941862506935646
+  ],
+  "development_scaler_mean": [
+    12.465127322857143
+  ],
+  "development_scaler_scale": [
+    2.728759040121589
+  ]
+}

@@ -1,0 +1,5 @@
+commodity,month,partition,actual_r_per_kg,lstm_prediction_r_per_kg,baseline_last_month_r_per_kg,lstm_error_prediction_minus_actual
+Brown onions,2026-01,validation,4.56358296,5.1228795,4.56033085,0.559296545157471
+Brown onions,2026-02,validation,5.1106016,5.29375,4.56358296,0.18314820926513686
+Brown onions,2026-03,validation,6.44339135,5.619879,5.1106016,-0.8235125810791013
+Brown onions,2026-04,validation,7.46824104,6.096224,6.44339135,-1.3720172088232419

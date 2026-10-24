@@ -1,0 +1,5 @@
+commodity,month,partition,actual_r_per_kg,lstm_prediction_r_per_kg,baseline_last_month_r_per_kg,lstm_error_prediction_minus_actual
+Potatoes,2026-01,validation,5.6543415,6.4990005,6.34200968,0.8446590493164061
+Potatoes,2026-02,validation,5.44263871,6.458471,5.6543415,1.0158321113806155
+Potatoes,2026-03,validation,3.38226326,6.2399716,5.44263871,2.85770837772583
+Potatoes,2026-04,validation,4.00988087,5.898008,3.38226326,1.888126999720459

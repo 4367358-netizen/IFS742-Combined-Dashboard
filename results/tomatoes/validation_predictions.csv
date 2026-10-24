@@ -1,0 +1,5 @@
+commodity,month,partition,actual_r_per_kg,lstm_prediction_r_per_kg,baseline_last_month_r_per_kg,lstm_error_prediction_minus_actual
+Tomatoes,2026-01,validation,7.63463345,11.428298,11.9499148,3.793664546520996
+Tomatoes,2026-02,validation,9.78974843,12.538452,7.63463345,2.7487037184375005
+Tomatoes,2026-03,validation,15.36318021,13.826619,9.78974843,-1.536561061745605
+Tomatoes,2026-04,validation,15.87658015,14.886639,15.36318021,-0.9899415086425787
